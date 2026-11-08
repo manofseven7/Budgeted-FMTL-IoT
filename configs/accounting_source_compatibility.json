@@ -1,0 +1,13 @@
+{
+  "reason": "Only downlink counters and exact-identity resume compatibility changed. Local training, masks, aggregation and random draws are unchanged.",
+  "source_pairs": [
+    [
+      "6b256e33e213934780185d33e1f2ecd5dfffad429f7dafce2dcedae04247fdec",
+      "209953a89d31a67d38dd8835ce9fe2a2c22656ceb6a4d6d694febde4f61a3e88"
+    ],
+    [
+      "9a610584434feef75fca6954adc8e399a77b75b9ff340e238dcee3461cd033bc",
+      "c4818e2e6a915b0985aa20601fc867edc85bcd34d99b37a0e794853740c5392e"
+    ]
+  ]
+}

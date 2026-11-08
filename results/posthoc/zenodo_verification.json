@@ -1,0 +1,47 @@
+{
+  "concept_doi": "10.5281/zenodo.22779285",
+  "version_doi": "10.5281/zenodo.22779286",
+  "title": "Reproducible simulation code for energy-efficient federated multi-task learning",
+  "download_bytes": 6397963,
+  "download_md5": "af87546dbc3308dc44b7b2bf1c88538e",
+  "provider_checksum_verified": true,
+  "archive_sha256": "8be789f7bf724fb1b34c55745b3102aa156dd961917b07c3d8600832bc0f8a9a",
+  "checks": [
+    {
+      "path": "src/core.py",
+      "zenodo_path": [
+        "manofseven7-Energy-Efficient-Federated-Learning-bdf4868/src/core.py"
+      ],
+      "same_as_original_local": true
+    },
+    {
+      "path": "src/experiment.py",
+      "zenodo_path": [
+        "manofseven7-Energy-Efficient-Federated-Learning-bdf4868/src/experiment.py"
+      ],
+      "same_as_original_local": true
+    },
+    {
+      "path": "src/preprocess_public.py",
+      "zenodo_path": [
+        "manofseven7-Energy-Efficient-Federated-Learning-bdf4868/src/preprocess_public.py"
+      ],
+      "same_as_original_local": true
+    },
+    {
+      "path": "src/preprocess_intel.py",
+      "zenodo_path": [
+        "manofseven7-Energy-Efficient-Federated-Learning-bdf4868/src/preprocess_intel.py"
+      ],
+      "same_as_original_local": true
+    },
+    {
+      "path": "results/archive/raw_experiment_runs.tar.gz",
+      "zenodo_path": [
+        "manofseven7-Energy-Efficient-Federated-Learning-bdf4868/results/archive/raw_experiment_runs.tar.gz"
+      ],
+      "same_as_original_local": true
+    }
+  ],
+  "scope": "Public V1; newly generated supplementary results are not in V1 and require a new release"
+}

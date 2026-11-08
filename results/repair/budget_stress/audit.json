@@ -1,0 +1,9 @@
+{
+  "instances": 600,
+  "budget_violations": 0,
+  "floor_violations": 0,
+  "exact_enumerated_sets": 38506,
+  "seed": 1703,
+  "cost_scope": "Controlled heterogeneous synthetic costs, not measured energy",
+  "interpretation": "Finite-instance heuristic check; no approximation guarantee"
+}

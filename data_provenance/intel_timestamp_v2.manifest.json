@@ -1,0 +1,32 @@
+{
+  "protocol": "intel_timestamp_v2",
+  "source_sha256": "d99288c8f406ca6604d359ceaa0d8adfffa79e7095061a1e27dc4399f48c7225",
+  "source_url": "https://db.csail.mit.edu/labdata/labdata.html",
+  "boundaries_unix": [
+    1079126983.2921288,
+    1079513865.8475056
+  ],
+  "counts": {
+    "train": 1099169,
+    "val": 274765,
+    "test": 343504
+  },
+  "purged_pairs": 81,
+  "maximum_gap_seconds": 120,
+  "clients": {
+    "train": 52,
+    "val": 49,
+    "test": 45
+  },
+  "features": [
+    "temperature",
+    "humidity",
+    "light",
+    "voltage",
+    "previous_gap_seconds",
+    "sensor_id/54"
+  ],
+  "gap_note": "Only the previously observed gap is used as a predictor.",
+  "scaling": "training only; validation not refitted",
+  "dataset_sha256": "b1812b4429da02fd0db0028994716365514e828a9961fb29dad8ca0f3bdc10e1"
+}

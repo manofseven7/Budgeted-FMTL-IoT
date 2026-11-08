@@ -1,0 +1,972 @@
+[
+  {
+    "data": "data/processed/uci_har.npz",
+    "method": "poc",
+    "seed": 11,
+    "rounds": 300,
+    "lr": 0.01,
+    "fairness_mix": 0,
+    "eval_split": "test",
+    "output": "results/supplementary/uci_har_poc_mix0_11"
+  },
+  {
+    "data": "data/processed/uci_har.npz",
+    "method": "poc",
+    "seed": 22,
+    "rounds": 300,
+    "lr": 0.01,
+    "fairness_mix": 0,
+    "eval_split": "test",
+    "output": "results/supplementary/uci_har_poc_mix0_22"
+  },
+  {
+    "data": "data/processed/uci_har.npz",
+    "method": "poc",
+    "seed": 33,
+    "rounds": 300,
+    "lr": 0.01,
+    "fairness_mix": 0,
+    "eval_split": "test",
+    "output": "results/supplementary/uci_har_poc_mix0_33"
+  },
+  {
+    "data": "data/processed/uci_har.npz",
+    "method": "poc",
+    "seed": 44,
+    "rounds": 300,
+    "lr": 0.01,
+    "fairness_mix": 0,
+    "eval_split": "test",
+    "output": "results/supplementary/uci_har_poc_mix0_44"
+  },
+  {
+    "data": "data/processed/uci_har.npz",
+    "method": "poc",
+    "seed": 55,
+    "rounds": 300,
+    "lr": 0.01,
+    "fairness_mix": 0,
+    "eval_split": "test",
+    "output": "results/supplementary/uci_har_poc_mix0_55"
+  },
+  {
+    "data": "data/processed/uci_har.npz",
+    "method": "proposed",
+    "seed": 11,
+    "rounds": 300,
+    "lr": 0.01,
+    "fairness_mix": 0.25,
+    "eval_split": "test",
+    "output": "results/supplementary/uci_har_proposed_mix0.25_11"
+  },
+  {
+    "data": "data/processed/uci_har.npz",
+    "method": "proposed",
+    "seed": 22,
+    "rounds": 300,
+    "lr": 0.01,
+    "fairness_mix": 0.25,
+    "eval_split": "test",
+    "output": "results/supplementary/uci_har_proposed_mix0.25_22"
+  },
+  {
+    "data": "data/processed/uci_har.npz",
+    "method": "proposed",
+    "seed": 33,
+    "rounds": 300,
+    "lr": 0.01,
+    "fairness_mix": 0.25,
+    "eval_split": "test",
+    "output": "results/supplementary/uci_har_proposed_mix0.25_33"
+  },
+  {
+    "data": "data/processed/uci_har.npz",
+    "method": "proposed",
+    "seed": 44,
+    "rounds": 300,
+    "lr": 0.01,
+    "fairness_mix": 0.25,
+    "eval_split": "test",
+    "output": "results/supplementary/uci_har_proposed_mix0.25_44"
+  },
+  {
+    "data": "data/processed/uci_har.npz",
+    "method": "proposed",
+    "seed": 55,
+    "rounds": 300,
+    "lr": 0.01,
+    "fairness_mix": 0.25,
+    "eval_split": "test",
+    "output": "results/supplementary/uci_har_proposed_mix0.25_55"
+  },
+  {
+    "data": "data/processed/uci_har.npz",
+    "method": "proposed",
+    "seed": 11,
+    "rounds": 300,
+    "lr": 0.01,
+    "fairness_mix": 0.5,
+    "eval_split": "test",
+    "output": "results/supplementary/uci_har_proposed_mix0.5_11"
+  },
+  {
+    "data": "data/processed/uci_har.npz",
+    "method": "proposed",
+    "seed": 22,
+    "rounds": 300,
+    "lr": 0.01,
+    "fairness_mix": 0.5,
+    "eval_split": "test",
+    "output": "results/supplementary/uci_har_proposed_mix0.5_22"
+  },
+  {
+    "data": "data/processed/uci_har.npz",
+    "method": "proposed",
+    "seed": 33,
+    "rounds": 300,
+    "lr": 0.01,
+    "fairness_mix": 0.5,
+    "eval_split": "test",
+    "output": "results/supplementary/uci_har_proposed_mix0.5_33"
+  },
+  {
+    "data": "data/processed/uci_har.npz",
+    "method": "proposed",
+    "seed": 44,
+    "rounds": 300,
+    "lr": 0.01,
+    "fairness_mix": 0.5,
+    "eval_split": "test",
+    "output": "results/supplementary/uci_har_proposed_mix0.5_44"
+  },
+  {
+    "data": "data/processed/uci_har.npz",
+    "method": "proposed",
+    "seed": 55,
+    "rounds": 300,
+    "lr": 0.01,
+    "fairness_mix": 0.5,
+    "eval_split": "test",
+    "output": "results/supplementary/uci_har_proposed_mix0.5_55"
+  },
+  {
+    "data": "data/processed/uci_har.npz",
+    "method": "proposed",
+    "seed": 11,
+    "rounds": 300,
+    "lr": 0.01,
+    "fairness_mix": 0.75,
+    "eval_split": "test",
+    "output": "results/supplementary/uci_har_proposed_mix0.75_11"
+  },
+  {
+    "data": "data/processed/uci_har.npz",
+    "method": "proposed",
+    "seed": 22,
+    "rounds": 300,
+    "lr": 0.01,
+    "fairness_mix": 0.75,
+    "eval_split": "test",
+    "output": "results/supplementary/uci_har_proposed_mix0.75_22"
+  },
+  {
+    "data": "data/processed/uci_har.npz",
+    "method": "proposed",
+    "seed": 33,
+    "rounds": 300,
+    "lr": 0.01,
+    "fairness_mix": 0.75,
+    "eval_split": "test",
+    "output": "results/supplementary/uci_har_proposed_mix0.75_33"
+  },
+  {
+    "data": "data/processed/uci_har.npz",
+    "method": "proposed",
+    "seed": 44,
+    "rounds": 300,
+    "lr": 0.01,
+    "fairness_mix": 0.75,
+    "eval_split": "test",
+    "output": "results/supplementary/uci_har_proposed_mix0.75_44"
+  },
+  {
+    "data": "data/processed/uci_har.npz",
+    "method": "proposed",
+    "seed": 55,
+    "rounds": 300,
+    "lr": 0.01,
+    "fairness_mix": 0.75,
+    "eval_split": "test",
+    "output": "results/supplementary/uci_har_proposed_mix0.75_55"
+  },
+  {
+    "data": "data/processed/uci_har.npz",
+    "method": "proposed",
+    "seed": 11,
+    "rounds": 300,
+    "lr": 0.01,
+    "fairness_mix": 1.0,
+    "eval_split": "test",
+    "output": "results/supplementary/uci_har_proposed_mix1.0_11"
+  },
+  {
+    "data": "data/processed/uci_har.npz",
+    "method": "proposed",
+    "seed": 22,
+    "rounds": 300,
+    "lr": 0.01,
+    "fairness_mix": 1.0,
+    "eval_split": "test",
+    "output": "results/supplementary/uci_har_proposed_mix1.0_22"
+  },
+  {
+    "data": "data/processed/uci_har.npz",
+    "method": "proposed",
+    "seed": 33,
+    "rounds": 300,
+    "lr": 0.01,
+    "fairness_mix": 1.0,
+    "eval_split": "test",
+    "output": "results/supplementary/uci_har_proposed_mix1.0_33"
+  },
+  {
+    "data": "data/processed/uci_har.npz",
+    "method": "proposed",
+    "seed": 44,
+    "rounds": 300,
+    "lr": 0.01,
+    "fairness_mix": 1.0,
+    "eval_split": "test",
+    "output": "results/supplementary/uci_har_proposed_mix1.0_44"
+  },
+  {
+    "data": "data/processed/uci_har.npz",
+    "method": "proposed",
+    "seed": 55,
+    "rounds": 300,
+    "lr": 0.01,
+    "fairness_mix": 1.0,
+    "eval_split": "test",
+    "output": "results/supplementary/uci_har_proposed_mix1.0_55"
+  },
+  {
+    "data": "data/processed/cwru.npz",
+    "method": "poc",
+    "seed": 11,
+    "rounds": 300,
+    "lr": 0.01,
+    "fairness_mix": 0,
+    "eval_split": "test",
+    "output": "results/supplementary/cwru_poc_mix0_11"
+  },
+  {
+    "data": "data/processed/cwru.npz",
+    "method": "poc",
+    "seed": 22,
+    "rounds": 300,
+    "lr": 0.01,
+    "fairness_mix": 0,
+    "eval_split": "test",
+    "output": "results/supplementary/cwru_poc_mix0_22"
+  },
+  {
+    "data": "data/processed/cwru.npz",
+    "method": "poc",
+    "seed": 33,
+    "rounds": 300,
+    "lr": 0.01,
+    "fairness_mix": 0,
+    "eval_split": "test",
+    "output": "results/supplementary/cwru_poc_mix0_33"
+  },
+  {
+    "data": "data/processed/cwru.npz",
+    "method": "poc",
+    "seed": 44,
+    "rounds": 300,
+    "lr": 0.01,
+    "fairness_mix": 0,
+    "eval_split": "test",
+    "output": "results/supplementary/cwru_poc_mix0_44"
+  },
+  {
+    "data": "data/processed/cwru.npz",
+    "method": "poc",
+    "seed": 55,
+    "rounds": 300,
+    "lr": 0.01,
+    "fairness_mix": 0,
+    "eval_split": "test",
+    "output": "results/supplementary/cwru_poc_mix0_55"
+  },
+  {
+    "data": "data/processed/cwru.npz",
+    "method": "proposed",
+    "seed": 11,
+    "rounds": 300,
+    "lr": 0.01,
+    "fairness_mix": 0.25,
+    "eval_split": "test",
+    "output": "results/supplementary/cwru_proposed_mix0.25_11"
+  },
+  {
+    "data": "data/processed/cwru.npz",
+    "method": "proposed",
+    "seed": 22,
+    "rounds": 300,
+    "lr": 0.01,
+    "fairness_mix": 0.25,
+    "eval_split": "test",
+    "output": "results/supplementary/cwru_proposed_mix0.25_22"
+  },
+  {
+    "data": "data/processed/cwru.npz",
+    "method": "proposed",
+    "seed": 33,
+    "rounds": 300,
+    "lr": 0.01,
+    "fairness_mix": 0.25,
+    "eval_split": "test",
+    "output": "results/supplementary/cwru_proposed_mix0.25_33"
+  },
+  {
+    "data": "data/processed/cwru.npz",
+    "method": "proposed",
+    "seed": 44,
+    "rounds": 300,
+    "lr": 0.01,
+    "fairness_mix": 0.25,
+    "eval_split": "test",
+    "output": "results/supplementary/cwru_proposed_mix0.25_44"
+  },
+  {
+    "data": "data/processed/cwru.npz",
+    "method": "proposed",
+    "seed": 55,
+    "rounds": 300,
+    "lr": 0.01,
+    "fairness_mix": 0.25,
+    "eval_split": "test",
+    "output": "results/supplementary/cwru_proposed_mix0.25_55"
+  },
+  {
+    "data": "data/processed/cwru.npz",
+    "method": "proposed",
+    "seed": 11,
+    "rounds": 300,
+    "lr": 0.01,
+    "fairness_mix": 0.5,
+    "eval_split": "test",
+    "output": "results/supplementary/cwru_proposed_mix0.5_11"
+  },
+  {
+    "data": "data/processed/cwru.npz",
+    "method": "proposed",
+    "seed": 22,
+    "rounds": 300,
+    "lr": 0.01,
+    "fairness_mix": 0.5,
+    "eval_split": "test",
+    "output": "results/supplementary/cwru_proposed_mix0.5_22"
+  },
+  {
+    "data": "data/processed/cwru.npz",
+    "method": "proposed",
+    "seed": 33,
+    "rounds": 300,
+    "lr": 0.01,
+    "fairness_mix": 0.5,
+    "eval_split": "test",
+    "output": "results/supplementary/cwru_proposed_mix0.5_33"
+  },
+  {
+    "data": "data/processed/cwru.npz",
+    "method": "proposed",
+    "seed": 44,
+    "rounds": 300,
+    "lr": 0.01,
+    "fairness_mix": 0.5,
+    "eval_split": "test",
+    "output": "results/supplementary/cwru_proposed_mix0.5_44"
+  },
+  {
+    "data": "data/processed/cwru.npz",
+    "method": "proposed",
+    "seed": 55,
+    "rounds": 300,
+    "lr": 0.01,
+    "fairness_mix": 0.5,
+    "eval_split": "test",
+    "output": "results/supplementary/cwru_proposed_mix0.5_55"
+  },
+  {
+    "data": "data/processed/cwru.npz",
+    "method": "proposed",
+    "seed": 11,
+    "rounds": 300,
+    "lr": 0.01,
+    "fairness_mix": 0.75,
+    "eval_split": "test",
+    "output": "results/supplementary/cwru_proposed_mix0.75_11"
+  },
+  {
+    "data": "data/processed/cwru.npz",
+    "method": "proposed",
+    "seed": 22,
+    "rounds": 300,
+    "lr": 0.01,
+    "fairness_mix": 0.75,
+    "eval_split": "test",
+    "output": "results/supplementary/cwru_proposed_mix0.75_22"
+  },
+  {
+    "data": "data/processed/cwru.npz",
+    "method": "proposed",
+    "seed": 33,
+    "rounds": 300,
+    "lr": 0.01,
+    "fairness_mix": 0.75,
+    "eval_split": "test",
+    "output": "results/supplementary/cwru_proposed_mix0.75_33"
+  },
+  {
+    "data": "data/processed/cwru.npz",
+    "method": "proposed",
+    "seed": 44,
+    "rounds": 300,
+    "lr": 0.01,
+    "fairness_mix": 0.75,
+    "eval_split": "test",
+    "output": "results/supplementary/cwru_proposed_mix0.75_44"
+  },
+  {
+    "data": "data/processed/cwru.npz",
+    "method": "proposed",
+    "seed": 55,
+    "rounds": 300,
+    "lr": 0.01,
+    "fairness_mix": 0.75,
+    "eval_split": "test",
+    "output": "results/supplementary/cwru_proposed_mix0.75_55"
+  },
+  {
+    "data": "data/processed/cwru.npz",
+    "method": "proposed",
+    "seed": 11,
+    "rounds": 300,
+    "lr": 0.01,
+    "fairness_mix": 1.0,
+    "eval_split": "test",
+    "output": "results/supplementary/cwru_proposed_mix1.0_11"
+  },
+  {
+    "data": "data/processed/cwru.npz",
+    "method": "proposed",
+    "seed": 22,
+    "rounds": 300,
+    "lr": 0.01,
+    "fairness_mix": 1.0,
+    "eval_split": "test",
+    "output": "results/supplementary/cwru_proposed_mix1.0_22"
+  },
+  {
+    "data": "data/processed/cwru.npz",
+    "method": "proposed",
+    "seed": 33,
+    "rounds": 300,
+    "lr": 0.01,
+    "fairness_mix": 1.0,
+    "eval_split": "test",
+    "output": "results/supplementary/cwru_proposed_mix1.0_33"
+  },
+  {
+    "data": "data/processed/cwru.npz",
+    "method": "proposed",
+    "seed": 44,
+    "rounds": 300,
+    "lr": 0.01,
+    "fairness_mix": 1.0,
+    "eval_split": "test",
+    "output": "results/supplementary/cwru_proposed_mix1.0_44"
+  },
+  {
+    "data": "data/processed/cwru.npz",
+    "method": "proposed",
+    "seed": 55,
+    "rounds": 300,
+    "lr": 0.01,
+    "fairness_mix": 1.0,
+    "eval_split": "test",
+    "output": "results/supplementary/cwru_proposed_mix1.0_55"
+  },
+  {
+    "data": "data/processed/intel_timestamp_v2.npz",
+    "method": "fedavg",
+    "seed": 11,
+    "rounds": 300,
+    "lr": 0.03,
+    "eval_split": "test",
+    "output": "results/supplementary/intel_v2_fedavg_11"
+  },
+  {
+    "data": "data/processed/intel_timestamp_v2.npz",
+    "method": "fedavg",
+    "seed": 22,
+    "rounds": 300,
+    "lr": 0.03,
+    "eval_split": "test",
+    "output": "results/supplementary/intel_v2_fedavg_22"
+  },
+  {
+    "data": "data/processed/intel_timestamp_v2.npz",
+    "method": "fedavg",
+    "seed": 33,
+    "rounds": 300,
+    "lr": 0.03,
+    "eval_split": "test",
+    "output": "results/supplementary/intel_v2_fedavg_33"
+  },
+  {
+    "data": "data/processed/intel_timestamp_v2.npz",
+    "method": "fedavg",
+    "seed": 44,
+    "rounds": 300,
+    "lr": 0.03,
+    "eval_split": "test",
+    "output": "results/supplementary/intel_v2_fedavg_44"
+  },
+  {
+    "data": "data/processed/intel_timestamp_v2.npz",
+    "method": "fedavg",
+    "seed": 55,
+    "rounds": 300,
+    "lr": 0.03,
+    "eval_split": "test",
+    "output": "results/supplementary/intel_v2_fedavg_55"
+  },
+  {
+    "data": "data/processed/intel_timestamp_v2.npz",
+    "method": "topksgd",
+    "seed": 11,
+    "rounds": 300,
+    "lr": 0.03,
+    "eval_split": "test",
+    "output": "results/supplementary/intel_v2_topksgd_11"
+  },
+  {
+    "data": "data/processed/intel_timestamp_v2.npz",
+    "method": "topksgd",
+    "seed": 22,
+    "rounds": 300,
+    "lr": 0.03,
+    "eval_split": "test",
+    "output": "results/supplementary/intel_v2_topksgd_22"
+  },
+  {
+    "data": "data/processed/intel_timestamp_v2.npz",
+    "method": "topksgd",
+    "seed": 33,
+    "rounds": 300,
+    "lr": 0.03,
+    "eval_split": "test",
+    "output": "results/supplementary/intel_v2_topksgd_33"
+  },
+  {
+    "data": "data/processed/intel_timestamp_v2.npz",
+    "method": "topksgd",
+    "seed": 44,
+    "rounds": 300,
+    "lr": 0.03,
+    "eval_split": "test",
+    "output": "results/supplementary/intel_v2_topksgd_44"
+  },
+  {
+    "data": "data/processed/intel_timestamp_v2.npz",
+    "method": "topksgd",
+    "seed": 55,
+    "rounds": 300,
+    "lr": 0.03,
+    "eval_split": "test",
+    "output": "results/supplementary/intel_v2_topksgd_55"
+  },
+  {
+    "data": "data/processed/intel_timestamp_v2.npz",
+    "method": "proposed",
+    "seed": 11,
+    "rounds": 300,
+    "lr": 0.03,
+    "eval_split": "test",
+    "output": "results/supplementary/intel_v2_proposed_11"
+  },
+  {
+    "data": "data/processed/intel_timestamp_v2.npz",
+    "method": "proposed",
+    "seed": 22,
+    "rounds": 300,
+    "lr": 0.03,
+    "eval_split": "test",
+    "output": "results/supplementary/intel_v2_proposed_22"
+  },
+  {
+    "data": "data/processed/intel_timestamp_v2.npz",
+    "method": "proposed",
+    "seed": 33,
+    "rounds": 300,
+    "lr": 0.03,
+    "eval_split": "test",
+    "output": "results/supplementary/intel_v2_proposed_33"
+  },
+  {
+    "data": "data/processed/intel_timestamp_v2.npz",
+    "method": "proposed",
+    "seed": 44,
+    "rounds": 300,
+    "lr": 0.03,
+    "eval_split": "test",
+    "output": "results/supplementary/intel_v2_proposed_44"
+  },
+  {
+    "data": "data/processed/intel_timestamp_v2.npz",
+    "method": "proposed",
+    "seed": 55,
+    "rounds": 300,
+    "lr": 0.03,
+    "eval_split": "test",
+    "output": "results/supplementary/intel_v2_proposed_55"
+  },
+  {
+    "data": "data/processed/intel_timestamp_v2.npz",
+    "method": "poc",
+    "seed": 11,
+    "rounds": 300,
+    "lr": 0.03,
+    "eval_split": "test",
+    "output": "results/supplementary/intel_v2_poc_11"
+  },
+  {
+    "data": "data/processed/intel_timestamp_v2.npz",
+    "method": "poc",
+    "seed": 22,
+    "rounds": 300,
+    "lr": 0.03,
+    "eval_split": "test",
+    "output": "results/supplementary/intel_v2_poc_22"
+  },
+  {
+    "data": "data/processed/intel_timestamp_v2.npz",
+    "method": "poc",
+    "seed": 33,
+    "rounds": 300,
+    "lr": 0.03,
+    "eval_split": "test",
+    "output": "results/supplementary/intel_v2_poc_33"
+  },
+  {
+    "data": "data/processed/intel_timestamp_v2.npz",
+    "method": "poc",
+    "seed": 44,
+    "rounds": 300,
+    "lr": 0.03,
+    "eval_split": "test",
+    "output": "results/supplementary/intel_v2_poc_44"
+  },
+  {
+    "data": "data/processed/intel_timestamp_v2.npz",
+    "method": "poc",
+    "seed": 55,
+    "rounds": 300,
+    "lr": 0.03,
+    "eval_split": "test",
+    "output": "results/supplementary/intel_v2_poc_55"
+  },
+  {
+    "data": "data/processed/intel_timestamp_v2.npz",
+    "method": "fedrep",
+    "seed": 11,
+    "rounds": 300,
+    "lr": 0.03,
+    "eval_split": "test",
+    "output": "results/supplementary/intel_v2_fedrep_11"
+  },
+  {
+    "data": "data/processed/intel_timestamp_v2.npz",
+    "method": "fedrep",
+    "seed": 22,
+    "rounds": 300,
+    "lr": 0.03,
+    "eval_split": "test",
+    "output": "results/supplementary/intel_v2_fedrep_22"
+  },
+  {
+    "data": "data/processed/intel_timestamp_v2.npz",
+    "method": "fedrep",
+    "seed": 33,
+    "rounds": 300,
+    "lr": 0.03,
+    "eval_split": "test",
+    "output": "results/supplementary/intel_v2_fedrep_33"
+  },
+  {
+    "data": "data/processed/intel_timestamp_v2.npz",
+    "method": "fedrep",
+    "seed": 44,
+    "rounds": 300,
+    "lr": 0.03,
+    "eval_split": "test",
+    "output": "results/supplementary/intel_v2_fedrep_44"
+  },
+  {
+    "data": "data/processed/intel_timestamp_v2.npz",
+    "method": "fedrep",
+    "seed": 55,
+    "rounds": 300,
+    "lr": 0.03,
+    "eval_split": "test",
+    "output": "results/supplementary/intel_v2_fedrep_55"
+  },
+  {
+    "data": "data/processed/intel_timestamp_v2.npz",
+    "method": "ifca",
+    "seed": 11,
+    "rounds": 300,
+    "lr": 0.03,
+    "eval_split": "test",
+    "output": "results/supplementary/intel_v2_ifca_11"
+  },
+  {
+    "data": "data/processed/intel_timestamp_v2.npz",
+    "method": "ifca",
+    "seed": 22,
+    "rounds": 300,
+    "lr": 0.03,
+    "eval_split": "test",
+    "output": "results/supplementary/intel_v2_ifca_22"
+  },
+  {
+    "data": "data/processed/intel_timestamp_v2.npz",
+    "method": "ifca",
+    "seed": 33,
+    "rounds": 300,
+    "lr": 0.03,
+    "eval_split": "test",
+    "output": "results/supplementary/intel_v2_ifca_33"
+  },
+  {
+    "data": "data/processed/intel_timestamp_v2.npz",
+    "method": "ifca",
+    "seed": 44,
+    "rounds": 300,
+    "lr": 0.03,
+    "eval_split": "test",
+    "output": "results/supplementary/intel_v2_ifca_44"
+  },
+  {
+    "data": "data/processed/intel_timestamp_v2.npz",
+    "method": "ifca",
+    "seed": 55,
+    "rounds": 300,
+    "lr": 0.03,
+    "eval_split": "test",
+    "output": "results/supplementary/intel_v2_ifca_55"
+  },
+  {
+    "data": "data/processed/intel_timestamp_v2.npz",
+    "method": "proposed",
+    "seed": 11,
+    "rounds": 300,
+    "lr": 0.03,
+    "fairness_mix": 0.25,
+    "eval_split": "test",
+    "output": "results/supplementary/intel_v2_proposed_mix0.25_11"
+  },
+  {
+    "data": "data/processed/intel_timestamp_v2.npz",
+    "method": "proposed",
+    "seed": 22,
+    "rounds": 300,
+    "lr": 0.03,
+    "fairness_mix": 0.25,
+    "eval_split": "test",
+    "output": "results/supplementary/intel_v2_proposed_mix0.25_22"
+  },
+  {
+    "data": "data/processed/intel_timestamp_v2.npz",
+    "method": "proposed",
+    "seed": 33,
+    "rounds": 300,
+    "lr": 0.03,
+    "fairness_mix": 0.25,
+    "eval_split": "test",
+    "output": "results/supplementary/intel_v2_proposed_mix0.25_33"
+  },
+  {
+    "data": "data/processed/intel_timestamp_v2.npz",
+    "method": "proposed",
+    "seed": 44,
+    "rounds": 300,
+    "lr": 0.03,
+    "fairness_mix": 0.25,
+    "eval_split": "test",
+    "output": "results/supplementary/intel_v2_proposed_mix0.25_44"
+  },
+  {
+    "data": "data/processed/intel_timestamp_v2.npz",
+    "method": "proposed",
+    "seed": 55,
+    "rounds": 300,
+    "lr": 0.03,
+    "fairness_mix": 0.25,
+    "eval_split": "test",
+    "output": "results/supplementary/intel_v2_proposed_mix0.25_55"
+  },
+  {
+    "data": "data/processed/intel_timestamp_v2.npz",
+    "method": "proposed",
+    "seed": 11,
+    "rounds": 300,
+    "lr": 0.03,
+    "fairness_mix": 0.5,
+    "eval_split": "test",
+    "output": "results/supplementary/intel_v2_proposed_mix0.5_11"
+  },
+  {
+    "data": "data/processed/intel_timestamp_v2.npz",
+    "method": "proposed",
+    "seed": 22,
+    "rounds": 300,
+    "lr": 0.03,
+    "fairness_mix": 0.5,
+    "eval_split": "test",
+    "output": "results/supplementary/intel_v2_proposed_mix0.5_22"
+  },
+  {
+    "data": "data/processed/intel_timestamp_v2.npz",
+    "method": "proposed",
+    "seed": 33,
+    "rounds": 300,
+    "lr": 0.03,
+    "fairness_mix": 0.5,
+    "eval_split": "test",
+    "output": "results/supplementary/intel_v2_proposed_mix0.5_33"
+  },
+  {
+    "data": "data/processed/intel_timestamp_v2.npz",
+    "method": "proposed",
+    "seed": 44,
+    "rounds": 300,
+    "lr": 0.03,
+    "fairness_mix": 0.5,
+    "eval_split": "test",
+    "output": "results/supplementary/intel_v2_proposed_mix0.5_44"
+  },
+  {
+    "data": "data/processed/intel_timestamp_v2.npz",
+    "method": "proposed",
+    "seed": 55,
+    "rounds": 300,
+    "lr": 0.03,
+    "fairness_mix": 0.5,
+    "eval_split": "test",
+    "output": "results/supplementary/intel_v2_proposed_mix0.5_55"
+  },
+  {
+    "data": "data/processed/intel_timestamp_v2.npz",
+    "method": "proposed",
+    "seed": 11,
+    "rounds": 300,
+    "lr": 0.03,
+    "fairness_mix": 0.75,
+    "eval_split": "test",
+    "output": "results/supplementary/intel_v2_proposed_mix0.75_11"
+  },
+  {
+    "data": "data/processed/intel_timestamp_v2.npz",
+    "method": "proposed",
+    "seed": 22,
+    "rounds": 300,
+    "lr": 0.03,
+    "fairness_mix": 0.75,
+    "eval_split": "test",
+    "output": "results/supplementary/intel_v2_proposed_mix0.75_22"
+  },
+  {
+    "data": "data/processed/intel_timestamp_v2.npz",
+    "method": "proposed",
+    "seed": 33,
+    "rounds": 300,
+    "lr": 0.03,
+    "fairness_mix": 0.75,
+    "eval_split": "test",
+    "output": "results/supplementary/intel_v2_proposed_mix0.75_33"
+  },
+  {
+    "data": "data/processed/intel_timestamp_v2.npz",
+    "method": "proposed",
+    "seed": 44,
+    "rounds": 300,
+    "lr": 0.03,
+    "fairness_mix": 0.75,
+    "eval_split": "test",
+    "output": "results/supplementary/intel_v2_proposed_mix0.75_44"
+  },
+  {
+    "data": "data/processed/intel_timestamp_v2.npz",
+    "method": "proposed",
+    "seed": 55,
+    "rounds": 300,
+    "lr": 0.03,
+    "fairness_mix": 0.75,
+    "eval_split": "test",
+    "output": "results/supplementary/intel_v2_proposed_mix0.75_55"
+  },
+  {
+    "data": "data/processed/intel_timestamp_v2.npz",
+    "method": "proposed",
+    "seed": 11,
+    "rounds": 300,
+    "lr": 0.03,
+    "fairness_mix": 1.0,
+    "eval_split": "test",
+    "output": "results/supplementary/intel_v2_proposed_mix1.0_11"
+  },
+  {
+    "data": "data/processed/intel_timestamp_v2.npz",
+    "method": "proposed",
+    "seed": 22,
+    "rounds": 300,
+    "lr": 0.03,
+    "fairness_mix": 1.0,
+    "eval_split": "test",
+    "output": "results/supplementary/intel_v2_proposed_mix1.0_22"
+  },
+  {
+    "data": "data/processed/intel_timestamp_v2.npz",
+    "method": "proposed",
+    "seed": 33,
+    "rounds": 300,
+    "lr": 0.03,
+    "fairness_mix": 1.0,
+    "eval_split": "test",
+    "output": "results/supplementary/intel_v2_proposed_mix1.0_33"
+  },
+  {
+    "data": "data/processed/intel_timestamp_v2.npz",
+    "method": "proposed",
+    "seed": 44,
+    "rounds": 300,
+    "lr": 0.03,
+    "fairness_mix": 1.0,
+    "eval_split": "test",
+    "output": "results/supplementary/intel_v2_proposed_mix1.0_44"
+  },
+  {
+    "data": "data/processed/intel_timestamp_v2.npz",
+    "method": "proposed",
+    "seed": 55,
+    "rounds": 300,
+    "lr": 0.03,
+    "fairness_mix": 1.0,
+    "eval_split": "test",
+    "output": "results/supplementary/intel_v2_proposed_mix1.0_55"
+  }
+]

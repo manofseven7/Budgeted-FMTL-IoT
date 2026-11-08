@@ -1,0 +1,568 @@
+{
+  "corrected_runs": 56,
+  "training_runs_repeated": 0,
+  "immutable_original_archive": "provenance/poc_accounting_before.tar.gz",
+  "original_archive_sha256": "b9702fe80acd60a1c8dbafaf39becc032a8378614ac93a7798675bd73ed29c51",
+  "records": [
+    {
+      "run": "results/repair/tuning/uci_har_poc_00",
+      "version": "candidate_downlink_v1",
+      "original_downlink_bytes": 87628800,
+      "corrected_downlink_bytes": 175257600,
+      "model_recipients_per_round": 48,
+      "reason": "All PoC candidates receive the current global model before local loss reporting.",
+      "training_repeated": false,
+      "training_source_hash_preserved": true
+    },
+    {
+      "run": "results/repair/tuning/uci_har_poc_01",
+      "version": "candidate_downlink_v1",
+      "original_downlink_bytes": 87628800,
+      "corrected_downlink_bytes": 175257600,
+      "model_recipients_per_round": 48,
+      "reason": "All PoC candidates receive the current global model before local loss reporting.",
+      "training_repeated": false,
+      "training_source_hash_preserved": true
+    },
+    {
+      "run": "results/repair/tuning/uci_har_poc_02",
+      "version": "candidate_downlink_v1",
+      "original_downlink_bytes": 87628800,
+      "corrected_downlink_bytes": 175257600,
+      "model_recipients_per_round": 48,
+      "reason": "All PoC candidates receive the current global model before local loss reporting.",
+      "training_repeated": false,
+      "training_source_hash_preserved": true
+    },
+    {
+      "run": "results/repair/tuning/uci_har_poc_03",
+      "version": "candidate_downlink_v1",
+      "original_downlink_bytes": 87628800,
+      "corrected_downlink_bytes": 175257600,
+      "model_recipients_per_round": 48,
+      "reason": "All PoC candidates receive the current global model before local loss reporting.",
+      "training_repeated": false,
+      "training_source_hash_preserved": true
+    },
+    {
+      "run": "results/repair/tuning/uci_har_poc_04",
+      "version": "candidate_downlink_v1",
+      "original_downlink_bytes": 87628800,
+      "corrected_downlink_bytes": 175257600,
+      "model_recipients_per_round": 48,
+      "reason": "All PoC candidates receive the current global model before local loss reporting.",
+      "training_repeated": false,
+      "training_source_hash_preserved": true
+    },
+    {
+      "run": "results/repair/tuning/uci_har_poc_05",
+      "version": "candidate_downlink_v1",
+      "original_downlink_bytes": 87628800,
+      "corrected_downlink_bytes": 175257600,
+      "model_recipients_per_round": 48,
+      "reason": "All PoC candidates receive the current global model before local loss reporting.",
+      "training_repeated": false,
+      "training_source_hash_preserved": true
+    },
+    {
+      "run": "results/repair/tuning/uci_har_poc_06",
+      "version": "candidate_downlink_v1",
+      "original_downlink_bytes": 87628800,
+      "corrected_downlink_bytes": 175257600,
+      "model_recipients_per_round": 48,
+      "reason": "All PoC candidates receive the current global model before local loss reporting.",
+      "training_repeated": false,
+      "training_source_hash_preserved": true
+    },
+    {
+      "run": "results/repair/tuning/uci_har_poc_07",
+      "version": "candidate_downlink_v1",
+      "original_downlink_bytes": 87628800,
+      "corrected_downlink_bytes": 175257600,
+      "model_recipients_per_round": 48,
+      "reason": "All PoC candidates receive the current global model before local loss reporting.",
+      "training_repeated": false,
+      "training_source_hash_preserved": true
+    },
+    {
+      "run": "results/repair/tuning/uci_har_poc_08",
+      "version": "candidate_downlink_v1",
+      "original_downlink_bytes": 87628800,
+      "corrected_downlink_bytes": 175257600,
+      "model_recipients_per_round": 48,
+      "reason": "All PoC candidates receive the current global model before local loss reporting.",
+      "training_repeated": false,
+      "training_source_hash_preserved": true
+    },
+    {
+      "run": "results/repair/tuning/uci_har_poc_09",
+      "version": "candidate_downlink_v1",
+      "original_downlink_bytes": 87628800,
+      "corrected_downlink_bytes": 175257600,
+      "model_recipients_per_round": 48,
+      "reason": "All PoC candidates receive the current global model before local loss reporting.",
+      "training_repeated": false,
+      "training_source_hash_preserved": true
+    },
+    {
+      "run": "results/repair/tuning/uci_har_poc_10",
+      "version": "candidate_downlink_v1",
+      "original_downlink_bytes": 87628800,
+      "corrected_downlink_bytes": 175257600,
+      "model_recipients_per_round": 48,
+      "reason": "All PoC candidates receive the current global model before local loss reporting.",
+      "training_repeated": false,
+      "training_source_hash_preserved": true
+    },
+    {
+      "run": "results/repair/tuning/uci_har_poc_11",
+      "version": "candidate_downlink_v1",
+      "original_downlink_bytes": 87628800,
+      "corrected_downlink_bytes": 175257600,
+      "model_recipients_per_round": 48,
+      "reason": "All PoC candidates receive the current global model before local loss reporting.",
+      "training_repeated": false,
+      "training_source_hash_preserved": true
+    },
+    {
+      "run": "results/repair/tuning/cwru_poc_00",
+      "version": "candidate_downlink_v1",
+      "original_downlink_bytes": 5452800,
+      "corrected_downlink_bytes": 10905600,
+      "model_recipients_per_round": 48,
+      "reason": "All PoC candidates receive the current global model before local loss reporting.",
+      "training_repeated": false,
+      "training_source_hash_preserved": true
+    },
+    {
+      "run": "results/repair/tuning/cwru_poc_01",
+      "version": "candidate_downlink_v1",
+      "original_downlink_bytes": 5452800,
+      "corrected_downlink_bytes": 10905600,
+      "model_recipients_per_round": 48,
+      "reason": "All PoC candidates receive the current global model before local loss reporting.",
+      "training_repeated": false,
+      "training_source_hash_preserved": true
+    },
+    {
+      "run": "results/repair/tuning/cwru_poc_02",
+      "version": "candidate_downlink_v1",
+      "original_downlink_bytes": 5452800,
+      "corrected_downlink_bytes": 10905600,
+      "model_recipients_per_round": 48,
+      "reason": "All PoC candidates receive the current global model before local loss reporting.",
+      "training_repeated": false,
+      "training_source_hash_preserved": true
+    },
+    {
+      "run": "results/repair/tuning/cwru_poc_03",
+      "version": "candidate_downlink_v1",
+      "original_downlink_bytes": 5452800,
+      "corrected_downlink_bytes": 10905600,
+      "model_recipients_per_round": 48,
+      "reason": "All PoC candidates receive the current global model before local loss reporting.",
+      "training_repeated": false,
+      "training_source_hash_preserved": true
+    },
+    {
+      "run": "results/repair/tuning/cwru_poc_04",
+      "version": "candidate_downlink_v1",
+      "original_downlink_bytes": 5452800,
+      "corrected_downlink_bytes": 10905600,
+      "model_recipients_per_round": 48,
+      "reason": "All PoC candidates receive the current global model before local loss reporting.",
+      "training_repeated": false,
+      "training_source_hash_preserved": true
+    },
+    {
+      "run": "results/repair/tuning/cwru_poc_05",
+      "version": "candidate_downlink_v1",
+      "original_downlink_bytes": 5452800,
+      "corrected_downlink_bytes": 10905600,
+      "model_recipients_per_round": 48,
+      "reason": "All PoC candidates receive the current global model before local loss reporting.",
+      "training_repeated": false,
+      "training_source_hash_preserved": true
+    },
+    {
+      "run": "results/repair/tuning/cwru_poc_06",
+      "version": "candidate_downlink_v1",
+      "original_downlink_bytes": 5452800,
+      "corrected_downlink_bytes": 10905600,
+      "model_recipients_per_round": 48,
+      "reason": "All PoC candidates receive the current global model before local loss reporting.",
+      "training_repeated": false,
+      "training_source_hash_preserved": true
+    },
+    {
+      "run": "results/repair/tuning/cwru_poc_07",
+      "version": "candidate_downlink_v1",
+      "original_downlink_bytes": 5452800,
+      "corrected_downlink_bytes": 10905600,
+      "model_recipients_per_round": 48,
+      "reason": "All PoC candidates receive the current global model before local loss reporting.",
+      "training_repeated": false,
+      "training_source_hash_preserved": true
+    },
+    {
+      "run": "results/repair/tuning/cwru_poc_08",
+      "version": "candidate_downlink_v1",
+      "original_downlink_bytes": 5452800,
+      "corrected_downlink_bytes": 10905600,
+      "model_recipients_per_round": 48,
+      "reason": "All PoC candidates receive the current global model before local loss reporting.",
+      "training_repeated": false,
+      "training_source_hash_preserved": true
+    },
+    {
+      "run": "results/repair/tuning/cwru_poc_09",
+      "version": "candidate_downlink_v1",
+      "original_downlink_bytes": 5452800,
+      "corrected_downlink_bytes": 10905600,
+      "model_recipients_per_round": 48,
+      "reason": "All PoC candidates receive the current global model before local loss reporting.",
+      "training_repeated": false,
+      "training_source_hash_preserved": true
+    },
+    {
+      "run": "results/repair/tuning/cwru_poc_10",
+      "version": "candidate_downlink_v1",
+      "original_downlink_bytes": 5452800,
+      "corrected_downlink_bytes": 10905600,
+      "model_recipients_per_round": 48,
+      "reason": "All PoC candidates receive the current global model before local loss reporting.",
+      "training_repeated": false,
+      "training_source_hash_preserved": true
+    },
+    {
+      "run": "results/repair/tuning/cwru_poc_11",
+      "version": "candidate_downlink_v1",
+      "original_downlink_bytes": 5452800,
+      "corrected_downlink_bytes": 10905600,
+      "model_recipients_per_round": 48,
+      "reason": "All PoC candidates receive the current global model before local loss reporting.",
+      "training_repeated": false,
+      "training_source_hash_preserved": true
+    },
+    {
+      "run": "results/repair/tuning/intel_poc_00",
+      "version": "candidate_downlink_v1",
+      "original_downlink_bytes": 1401600,
+      "corrected_downlink_bytes": 2803200,
+      "model_recipients_per_round": 48,
+      "reason": "All PoC candidates receive the current global model before local loss reporting.",
+      "training_repeated": false,
+      "training_source_hash_preserved": true
+    },
+    {
+      "run": "results/repair/tuning/intel_poc_01",
+      "version": "candidate_downlink_v1",
+      "original_downlink_bytes": 1401600,
+      "corrected_downlink_bytes": 2803200,
+      "model_recipients_per_round": 48,
+      "reason": "All PoC candidates receive the current global model before local loss reporting.",
+      "training_repeated": false,
+      "training_source_hash_preserved": true
+    },
+    {
+      "run": "results/repair/tuning/intel_poc_02",
+      "version": "candidate_downlink_v1",
+      "original_downlink_bytes": 1401600,
+      "corrected_downlink_bytes": 2803200,
+      "model_recipients_per_round": 48,
+      "reason": "All PoC candidates receive the current global model before local loss reporting.",
+      "training_repeated": false,
+      "training_source_hash_preserved": true
+    },
+    {
+      "run": "results/repair/tuning/intel_poc_03",
+      "version": "candidate_downlink_v1",
+      "original_downlink_bytes": 1401600,
+      "corrected_downlink_bytes": 2803200,
+      "model_recipients_per_round": 48,
+      "reason": "All PoC candidates receive the current global model before local loss reporting.",
+      "training_repeated": false,
+      "training_source_hash_preserved": true
+    },
+    {
+      "run": "results/repair/tuning/intel_poc_04",
+      "version": "candidate_downlink_v1",
+      "original_downlink_bytes": 1401600,
+      "corrected_downlink_bytes": 2803200,
+      "model_recipients_per_round": 48,
+      "reason": "All PoC candidates receive the current global model before local loss reporting.",
+      "training_repeated": false,
+      "training_source_hash_preserved": true
+    },
+    {
+      "run": "results/repair/tuning/intel_poc_05",
+      "version": "candidate_downlink_v1",
+      "original_downlink_bytes": 1401600,
+      "corrected_downlink_bytes": 2803200,
+      "model_recipients_per_round": 48,
+      "reason": "All PoC candidates receive the current global model before local loss reporting.",
+      "training_repeated": false,
+      "training_source_hash_preserved": true
+    },
+    {
+      "run": "results/repair/tuning/intel_poc_06",
+      "version": "candidate_downlink_v1",
+      "original_downlink_bytes": 1401600,
+      "corrected_downlink_bytes": 2803200,
+      "model_recipients_per_round": 48,
+      "reason": "All PoC candidates receive the current global model before local loss reporting.",
+      "training_repeated": false,
+      "training_source_hash_preserved": true
+    },
+    {
+      "run": "results/repair/tuning/intel_poc_07",
+      "version": "candidate_downlink_v1",
+      "original_downlink_bytes": 1401600,
+      "corrected_downlink_bytes": 2803200,
+      "model_recipients_per_round": 48,
+      "reason": "All PoC candidates receive the current global model before local loss reporting.",
+      "training_repeated": false,
+      "training_source_hash_preserved": true
+    },
+    {
+      "run": "results/repair/tuning/intel_poc_08",
+      "version": "candidate_downlink_v1",
+      "original_downlink_bytes": 1401600,
+      "corrected_downlink_bytes": 2803200,
+      "model_recipients_per_round": 48,
+      "reason": "All PoC candidates receive the current global model before local loss reporting.",
+      "training_repeated": false,
+      "training_source_hash_preserved": true
+    },
+    {
+      "run": "results/repair/tuning/intel_poc_09",
+      "version": "candidate_downlink_v1",
+      "original_downlink_bytes": 1401600,
+      "corrected_downlink_bytes": 2803200,
+      "model_recipients_per_round": 48,
+      "reason": "All PoC candidates receive the current global model before local loss reporting.",
+      "training_repeated": false,
+      "training_source_hash_preserved": true
+    },
+    {
+      "run": "results/repair/tuning/intel_poc_10",
+      "version": "candidate_downlink_v1",
+      "original_downlink_bytes": 1401600,
+      "corrected_downlink_bytes": 2803200,
+      "model_recipients_per_round": 48,
+      "reason": "All PoC candidates receive the current global model before local loss reporting.",
+      "training_repeated": false,
+      "training_source_hash_preserved": true
+    },
+    {
+      "run": "results/repair/tuning/intel_poc_11",
+      "version": "candidate_downlink_v1",
+      "original_downlink_bytes": 1401600,
+      "corrected_downlink_bytes": 2803200,
+      "model_recipients_per_round": 48,
+      "reason": "All PoC candidates receive the current global model before local loss reporting.",
+      "training_repeated": false,
+      "training_source_hash_preserved": true
+    },
+    {
+      "run": "results/repair/final/uci_har_poc_11",
+      "version": "candidate_downlink_v1",
+      "original_downlink_bytes": 262886400,
+      "corrected_downlink_bytes": 525772800,
+      "model_recipients_per_round": 48,
+      "reason": "All PoC candidates receive the current global model before local loss reporting.",
+      "training_repeated": false,
+      "training_source_hash_preserved": true
+    },
+    {
+      "run": "results/repair/final/uci_har_poc_22",
+      "version": "candidate_downlink_v1",
+      "original_downlink_bytes": 262886400,
+      "corrected_downlink_bytes": 525772800,
+      "model_recipients_per_round": 48,
+      "reason": "All PoC candidates receive the current global model before local loss reporting.",
+      "training_repeated": false,
+      "training_source_hash_preserved": true
+    },
+    {
+      "run": "results/repair/final/uci_har_poc_33",
+      "version": "candidate_downlink_v1",
+      "original_downlink_bytes": 262886400,
+      "corrected_downlink_bytes": 525772800,
+      "model_recipients_per_round": 48,
+      "reason": "All PoC candidates receive the current global model before local loss reporting.",
+      "training_repeated": false,
+      "training_source_hash_preserved": true
+    },
+    {
+      "run": "results/repair/final/uci_har_poc_44",
+      "version": "candidate_downlink_v1",
+      "original_downlink_bytes": 262886400,
+      "corrected_downlink_bytes": 525772800,
+      "model_recipients_per_round": 48,
+      "reason": "All PoC candidates receive the current global model before local loss reporting.",
+      "training_repeated": false,
+      "training_source_hash_preserved": true
+    },
+    {
+      "run": "results/repair/final/uci_har_poc_55",
+      "version": "candidate_downlink_v1",
+      "original_downlink_bytes": 262886400,
+      "corrected_downlink_bytes": 525772800,
+      "model_recipients_per_round": 48,
+      "reason": "All PoC candidates receive the current global model before local loss reporting.",
+      "training_repeated": false,
+      "training_source_hash_preserved": true
+    },
+    {
+      "run": "results/repair/final/cwru_poc_11",
+      "version": "candidate_downlink_v1",
+      "original_downlink_bytes": 16358400,
+      "corrected_downlink_bytes": 32716800,
+      "model_recipients_per_round": 48,
+      "reason": "All PoC candidates receive the current global model before local loss reporting.",
+      "training_repeated": false,
+      "training_source_hash_preserved": true
+    },
+    {
+      "run": "results/repair/final/cwru_poc_22",
+      "version": "candidate_downlink_v1",
+      "original_downlink_bytes": 16358400,
+      "corrected_downlink_bytes": 32716800,
+      "model_recipients_per_round": 48,
+      "reason": "All PoC candidates receive the current global model before local loss reporting.",
+      "training_repeated": false,
+      "training_source_hash_preserved": true
+    },
+    {
+      "run": "results/repair/final/cwru_poc_33",
+      "version": "candidate_downlink_v1",
+      "original_downlink_bytes": 16358400,
+      "corrected_downlink_bytes": 32716800,
+      "model_recipients_per_round": 48,
+      "reason": "All PoC candidates receive the current global model before local loss reporting.",
+      "training_repeated": false,
+      "training_source_hash_preserved": true
+    },
+    {
+      "run": "results/repair/final/cwru_poc_44",
+      "version": "candidate_downlink_v1",
+      "original_downlink_bytes": 16358400,
+      "corrected_downlink_bytes": 32716800,
+      "model_recipients_per_round": 48,
+      "reason": "All PoC candidates receive the current global model before local loss reporting.",
+      "training_repeated": false,
+      "training_source_hash_preserved": true
+    },
+    {
+      "run": "results/repair/final/cwru_poc_55",
+      "version": "candidate_downlink_v1",
+      "original_downlink_bytes": 16358400,
+      "corrected_downlink_bytes": 32716800,
+      "model_recipients_per_round": 48,
+      "reason": "All PoC candidates receive the current global model before local loss reporting.",
+      "training_repeated": false,
+      "training_source_hash_preserved": true
+    },
+    {
+      "run": "results/repair/final/intel_poc_11",
+      "version": "candidate_downlink_v1",
+      "original_downlink_bytes": 4204800,
+      "corrected_downlink_bytes": 8409600,
+      "model_recipients_per_round": 48,
+      "reason": "All PoC candidates receive the current global model before local loss reporting.",
+      "training_repeated": false,
+      "training_source_hash_preserved": true
+    },
+    {
+      "run": "results/repair/final/intel_poc_22",
+      "version": "candidate_downlink_v1",
+      "original_downlink_bytes": 4204800,
+      "corrected_downlink_bytes": 8409600,
+      "model_recipients_per_round": 48,
+      "reason": "All PoC candidates receive the current global model before local loss reporting.",
+      "training_repeated": false,
+      "training_source_hash_preserved": true
+    },
+    {
+      "run": "results/repair/final/intel_poc_33",
+      "version": "candidate_downlink_v1",
+      "original_downlink_bytes": 4204800,
+      "corrected_downlink_bytes": 8409600,
+      "model_recipients_per_round": 48,
+      "reason": "All PoC candidates receive the current global model before local loss reporting.",
+      "training_repeated": false,
+      "training_source_hash_preserved": true
+    },
+    {
+      "run": "results/repair/final/intel_poc_44",
+      "version": "candidate_downlink_v1",
+      "original_downlink_bytes": 4204800,
+      "corrected_downlink_bytes": 8409600,
+      "model_recipients_per_round": 48,
+      "reason": "All PoC candidates receive the current global model before local loss reporting.",
+      "training_repeated": false,
+      "training_source_hash_preserved": true
+    },
+    {
+      "run": "results/repair/final/intel_poc_55",
+      "version": "candidate_downlink_v1",
+      "original_downlink_bytes": 4204800,
+      "corrected_downlink_bytes": 8409600,
+      "model_recipients_per_round": 48,
+      "reason": "All PoC candidates receive the current global model before local loss reporting.",
+      "training_repeated": false,
+      "training_source_hash_preserved": true
+    },
+    {
+      "run": "results/repair/architecture/intel_poc_11",
+      "version": "candidate_downlink_v1",
+      "original_downlink_bytes": 4204800,
+      "corrected_downlink_bytes": 8409600,
+      "model_recipients_per_round": 48,
+      "reason": "All PoC candidates receive the current global model before local loss reporting.",
+      "training_repeated": false,
+      "training_source_hash_preserved": true
+    },
+    {
+      "run": "results/repair/architecture/intel_poc_22",
+      "version": "candidate_downlink_v1",
+      "original_downlink_bytes": 4204800,
+      "corrected_downlink_bytes": 8409600,
+      "model_recipients_per_round": 48,
+      "reason": "All PoC candidates receive the current global model before local loss reporting.",
+      "training_repeated": false,
+      "training_source_hash_preserved": true
+    },
+    {
+      "run": "results/repair/architecture/intel_poc_33",
+      "version": "candidate_downlink_v1",
+      "original_downlink_bytes": 4204800,
+      "corrected_downlink_bytes": 8409600,
+      "model_recipients_per_round": 48,
+      "reason": "All PoC candidates receive the current global model before local loss reporting.",
+      "training_repeated": false,
+      "training_source_hash_preserved": true
+    },
+    {
+      "run": "results/repair/architecture/intel_poc_44",
+      "version": "candidate_downlink_v1",
+      "original_downlink_bytes": 4204800,
+      "corrected_downlink_bytes": 8409600,
+      "model_recipients_per_round": 48,
+      "reason": "All PoC candidates receive the current global model before local loss reporting.",
+      "training_repeated": false,
+      "training_source_hash_preserved": true
+    },
+    {
+      "run": "results/repair/architecture/intel_poc_55",
+      "version": "candidate_downlink_v1",
+      "original_downlink_bytes": 4204800,
+      "corrected_downlink_bytes": 8409600,
+      "model_recipients_per_round": 48,
+      "reason": "All PoC candidates receive the current global model before local loss reporting.",
+      "training_repeated": false,
+      "training_source_hash_preserved": true
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "new_parameterization_fits": 30,
+  "old_absolute_fits_reused": 30,
+  "old_training_repeated": 0,
+  "max_reconstruction_error": 0,
+  "interpretation": "Common persistence-offset and zero-head parameterization control at fixed optimizer settings; not a proposed-only benefit."
+}

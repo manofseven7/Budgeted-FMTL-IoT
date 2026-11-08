@@ -1,0 +1,278 @@
+{
+  "uci_har": {
+    "fedavg": {
+      "hyperparameters": {
+        "lr": 0.1,
+        "steps": 4
+      },
+      "validation_metrics": [
+        0.9232818327117741,
+        1.0
+      ],
+      "validation_run": "results/repair/tuning/uci_har_fedavg_11"
+    },
+    "fedprox": {
+      "hyperparameters": {
+        "lr": 0.1,
+        "steps": 2,
+        "mu": 0.1
+      },
+      "validation_metrics": [
+        0.9147575919019713,
+        1.0
+      ],
+      "validation_run": "results/repair/tuning/uci_har_fedprox_10"
+    },
+    "fmtl": {
+      "hyperparameters": {
+        "lr": 0.1,
+        "steps": 2,
+        "coupling": 0.001
+      },
+      "validation_metrics": [
+        0.9142248268513585,
+        1.0
+      ],
+      "validation_run": "results/repair/tuning/uci_har_fmtl_08"
+    },
+    "scaffold": {
+      "hyperparameters": {
+        "lr": 0.1,
+        "steps": 4
+      },
+      "validation_metrics": [
+        0.9232818327117741,
+        1.0
+      ],
+      "control_weighting": "population_sample_weights"
+    },
+    "topksgd": {
+      "hyperparameters": {
+        "lr": 0.1,
+        "steps": 4
+      },
+      "validation_metrics": [
+        0.9232818327117741,
+        1.0
+      ],
+      "validation_run": "results/repair/tuning/uci_har_topksgd_11"
+    },
+    "poc": {
+      "hyperparameters": {
+        "lr": 0.1,
+        "steps": 4
+      },
+      "validation_metrics": [
+        0.9286094832179009,
+        1.0
+      ],
+      "validation_run": "results/repair/tuning/uci_har_poc_11"
+    },
+    "proposed": {
+      "hyperparameters": {
+        "lr": 0.1,
+        "steps": 2,
+        "sigma": 0.0,
+        "rho": 0.3,
+        "fairness_mix": 0.25
+      },
+      "validation_metrics": [
+        0.9131592967501332,
+        1.0
+      ],
+      "validation_run": "results/repair/tuning/uci_har_proposed_09"
+    }
+  },
+  "cwru": {
+    "fedavg": {
+      "hyperparameters": {
+        "lr": 0.1,
+        "steps": 4
+      },
+      "validation_metrics": [
+        1.0,
+        0.9282920469361148
+      ],
+      "validation_run": "results/repair/tuning/cwru_fedavg_11"
+    },
+    "fedprox": {
+      "hyperparameters": {
+        "lr": 0.1,
+        "steps": 2,
+        "mu": 1.0
+      },
+      "validation_metrics": [
+        1.0,
+        0.9230769230769231
+      ],
+      "validation_run": "results/repair/tuning/cwru_fedprox_11"
+    },
+    "fmtl": {
+      "hyperparameters": {
+        "lr": 0.1,
+        "steps": 2,
+        "coupling": 0.01
+      },
+      "validation_metrics": [
+        1.0,
+        0.9230769230769231
+      ],
+      "validation_run": "results/repair/tuning/cwru_fmtl_09"
+    },
+    "scaffold": {
+      "hyperparameters": {
+        "lr": 0.1,
+        "steps": 4
+      },
+      "validation_metrics": [
+        1.0,
+        0.9295958279009127
+      ],
+      "control_weighting": "population_sample_weights"
+    },
+    "topksgd": {
+      "hyperparameters": {
+        "lr": 0.1,
+        "steps": 4
+      },
+      "validation_metrics": [
+        1.0,
+        0.9295958279009127
+      ],
+      "validation_run": "results/repair/tuning/cwru_topksgd_11"
+    },
+    "poc": {
+      "hyperparameters": {
+        "lr": 0.1,
+        "steps": 4
+      },
+      "validation_metrics": [
+        1.0,
+        0.9387222946544981
+      ],
+      "validation_run": "results/repair/tuning/cwru_poc_11"
+    },
+    "proposed": {
+      "hyperparameters": {
+        "lr": 0.1,
+        "steps": 2,
+        "sigma": 0.0,
+        "rho": 0.3,
+        "fairness_mix": 0.25
+      },
+      "validation_metrics": [
+        1.0,
+        0.9217731421121251
+      ],
+      "validation_run": "results/repair/tuning/cwru_proposed_09"
+    }
+  },
+  "intel": {
+    "fedavg": {
+      "hyperparameters": {
+        "lr": 0.1,
+        "steps": 4
+      },
+      "validation_metrics": [
+        0.0005441486136987805,
+        0.0006145412917248905
+      ],
+      "validation_run": "results/repair/tuning/intel_fedavg_11"
+    },
+    "fedprox": {
+      "hyperparameters": {
+        "lr": 0.1,
+        "steps": 2,
+        "mu": 1.0
+      },
+      "validation_metrics": [
+        0.0005439005326479673,
+        0.0006149921682663262
+      ],
+      "validation_run": "results/repair/tuning/intel_fedprox_11"
+    },
+    "fmtl": {
+      "hyperparameters": {
+        "lr": 0.1,
+        "steps": 2,
+        "coupling": 0.001
+      },
+      "validation_metrics": [
+        0.0005439039668999612,
+        0.0006149983964860439
+      ],
+      "validation_run": "results/repair/tuning/intel_fmtl_08"
+    },
+    "scaffold": {
+      "hyperparameters": {
+        "lr": 0.03,
+        "steps": 4
+      },
+      "validation_metrics": [
+        0.0005442158435471356,
+        0.0006146354135125875
+      ],
+      "control_weighting": "population_sample_weights"
+    },
+    "topksgd": {
+      "hyperparameters": {
+        "lr": 0.1,
+        "steps": 4
+      },
+      "validation_metrics": [
+        0.0005441486136987805,
+        0.0006145412917248905
+      ],
+      "validation_run": "results/repair/tuning/intel_topksgd_11"
+    },
+    "poc": {
+      "hyperparameters": {
+        "lr": 0.03,
+        "steps": 4
+      },
+      "validation_metrics": [
+        0.0005440644454210997,
+        0.0006146990926936269
+      ],
+      "validation_run": "results/repair/tuning/intel_poc_09"
+    },
+    "proposed": {
+      "hyperparameters": {
+        "lr": 0.1,
+        "steps": 2,
+        "sigma": 0.0,
+        "rho": 0.3,
+        "fairness_mix": 0.25
+      },
+      "validation_metrics": [
+        0.000544206181075424,
+        0.0006147604435682297
+      ],
+      "validation_run": "results/repair/tuning/intel_proposed_09"
+    },
+    "fedrep": {
+      "hyperparameters": {
+        "lr": 0.001,
+        "head_steps": 3,
+        "rep_steps": 1
+      },
+      "validation_metrics": [
+        0.0005453688465059253,
+        0.0006150697497881235
+      ],
+      "validation_run": "results/repair/tuning/intel_fedrep_02"
+    },
+    "ifca": {
+      "hyperparameters": {
+        "lr": 0.1,
+        "steps": 4,
+        "clusters": 2
+      },
+      "validation_metrics": [
+        0.0005439478294011979,
+        0.0006147987678600378
+      ],
+      "validation_run": "results/repair/tuning/intel_ifca_10"
+    }
+  }
+}

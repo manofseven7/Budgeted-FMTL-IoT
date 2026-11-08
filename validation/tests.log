@@ -1,0 +1,93 @@
+test_candidate_count_and_full_vector_definition (test_accounting_correction.AccountingCorrectionTests.test_candidate_count_and_full_vector_definition) ... ok
+test_poc_candidate_delivery_preserves_training_and_cache (test_accounting_correction.AccountingCorrectionTests.test_poc_candidate_delivery_preserves_training_and_cache) ... DONE /tmp/tmpy21f0dv3/old [0.3125, 0.325]
+DONE /tmp/tmpy21f0dv3/new [0.3125, 0.325]
+REUSE /tmp/tmpy21f0dv3/old
+ok
+test_error_feedback_conservation_for_every_task (test_core.CoreContractTests.test_error_feedback_conservation_for_every_task) ... ok
+test_freeze_requires_two_consecutive_checks (test_core.CoreContractTests.test_freeze_requires_two_consecutive_checks) ... ok
+test_payload_includes_indices_and_metadata (test_core.CoreContractTests.test_payload_includes_indices_and_metadata) ... ok
+test_scheduler_floor_prefers_utility_when_costs_tie (test_core.CoreContractTests.test_scheduler_floor_prefers_utility_when_costs_tie) ... ok
+test_scheduler_never_exceeds_budget (test_core.CoreContractTests.test_scheduler_never_exceeds_budget) ... ok
+test_scheduler_rejects_infeasible_floor (test_core.CoreContractTests.test_scheduler_rejects_infeasible_floor) ... ok
+test_scheduler_respects_cardinality_cap (test_core.CoreContractTests.test_scheduler_respects_cardinality_cap) ... ok
+test_sigma_one_recovers_independent_topk (test_core.CoreContractTests.test_sigma_one_recovers_independent_topk) ... ok
+test_similar_tasks_do_not_duplicate_overlapping_coordinates (test_core.CoreContractTests.test_similar_tasks_do_not_duplicate_overlapping_coordinates) ... ok
+test_stationarity_does_not_hide_opposing_task_gradients (test_core.CoreContractTests.test_stationarity_does_not_hide_opposing_task_gradients) ... ok
+test_topk_respects_rho_and_ties_are_deterministic (test_core.CoreContractTests.test_topk_respects_rho_and_ties_are_deterministic) ... ok
+test_proposed_smoke_run_emits_auditable_outputs (test_integration.IntegrationTests.test_proposed_smoke_run_emits_auditable_outputs) ... ok
+test_regression_and_all_baselines_execute (test_integration.IntegrationTests.test_regression_and_all_baselines_execute) ... ok
+test_chronological_split_and_train_only_scaling (test_intel_preprocess.IntelPreprocessTests.test_chronological_split_and_train_only_scaling) ... ok
+test_all_repaired_methods_finite_and_control_accounting (test_repair.RepairTests.test_all_repaired_methods_finite_and_control_accounting) ... DONE /tmp/tmpm4ofnxpi/fedavg [8.923215659706329e-07, 9.777760396900703e-07]
+REUSE /tmp/tmpm4ofnxpi/fedavg
+DONE /tmp/tmpm4ofnxpi/fedprox [8.923236691771308e-07, 9.777799050425529e-07]
+REUSE /tmp/tmpm4ofnxpi/fedprox
+DONE /tmp/tmpm4ofnxpi/fmtl [8.923258292270475e-07, 9.777837703950354e-07]
+REUSE /tmp/tmpm4ofnxpi/fmtl
+DONE /tmp/tmpm4ofnxpi/scaffold [8.922780239117856e-07, 9.776767910807393e-07]
+REUSE /tmp/tmpm4ofnxpi/scaffold
+DONE /tmp/tmpm4ofnxpi/topksgd [8.923215659706329e-07, 9.777760396900703e-07]
+REUSE /tmp/tmpm4ofnxpi/topksgd
+DONE /tmp/tmpm4ofnxpi/poc [8.908328368306684e-07, 9.772196563062607e-07]
+REUSE /tmp/tmpm4ofnxpi/poc
+DONE /tmp/tmpm4ofnxpi/proposed [8.900348689167004e-07, 9.871082511381246e-07]
+REUSE /tmp/tmpm4ofnxpi/proposed
+DONE /tmp/tmpm4ofnxpi/fedrep [8.926830901145877e-07, 9.774070974799542e-07]
+REUSE /tmp/tmpm4ofnxpi/fedrep
+DONE /tmp/tmpm4ofnxpi/ifca [8.899431577447103e-07, 9.816843828502897e-07]
+REUSE /tmp/tmpm4ofnxpi/ifca
+ok
+test_residual_error_equals_absolute_forecast_error (test_repair.RepairTests.test_residual_error_equals_absolute_forecast_error) ... ok
+test_weighted_scaffold_control_population_identity (test_repair.RepairTests.test_weighted_scaffold_control_population_identity) ... DONE /tmp/tmptcpofdy8/run [9.635875176172704e-05, 9.605872764950618e-05]
+ok
+test_new_methods_and_resume (test_supplementary.SupplementTests.test_new_methods_and_resume) ... DONE /tmp/tmpw8cwc3k8/fedavg [1.1829662322998047, 1.0145297050476074]
+REUSE /tmp/tmpw8cwc3k8/fedavg
+DONE /tmp/tmpw8cwc3k8/topksgd [1.1871203184127808, 1.0245229005813599]
+REUSE /tmp/tmpw8cwc3k8/topksgd
+DONE /tmp/tmpw8cwc3k8/proposed [1.1824145317077637, 1.0344533920288086]
+REUSE /tmp/tmpw8cwc3k8/proposed
+DONE /tmp/tmpw8cwc3k8/poc [1.1715788841247559, 1.0198482275009155]
+REUSE /tmp/tmpw8cwc3k8/poc
+DONE /tmp/tmpw8cwc3k8/fedrep [1.156233263015747, 1.000355076789856]
+REUSE /tmp/tmpw8cwc3k8/fedrep
+DONE /tmp/tmpw8cwc3k8/ifca [1.273717999458313, 0.8406718015670777]
+REUSE /tmp/tmpw8cwc3k8/ifca
+ok
+test_regression_gradient_finite_difference (test_supplementary.SupplementTests.test_regression_gradient_finite_difference) ... ok
+test_true_timestamps_and_purged_targets (test_supplementary.SupplementTests.test_true_timestamps_and_purged_targets) ... ok
+
+----------------------------------------------------------------------
+Ran 22 tests in 0.171s
+
+OK
+{
+  "protocol": "intel_timestamp_v2",
+  "source_sha256": "64fb3d1a260c09284e0d8364054388174de46a9be4958d0e0a20b5034bcbeb87",
+  "source_url": "https://db.csail.mit.edu/labdata/labdata.html",
+  "boundaries_unix": [
+    1078101470.4,
+    1078102038.0
+  ],
+  "counts": {
+    "train": 150,
+    "val": 36,
+    "test": 48
+  },
+  "purged_pairs": 4,
+  "maximum_gap_seconds": 120,
+  "clients": {
+    "train": 2,
+    "val": 2,
+    "test": 2
+  },
+  "features": [
+    "temperature",
+    "humidity",
+    "light",
+    "voltage",
+    "previous_gap_seconds",
+    "sensor_id/54"
+  ],
+  "gap_note": "Only the previously observed gap is used as a predictor.",
+  "scaling": "training only; validation not refitted",
+  "dataset_sha256": "7bfe249ef52ea9eeddb9069c54b51c905fc510fb156e716a6607bce5c2f312e7"
+}

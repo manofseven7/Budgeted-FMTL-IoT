@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "Please cite the associated manuscript and version-appropriate artifact. Historical V1 has a DOI; this current review package is a separate version."
+title: "Reproducible simulation code for budgeted federated multi-task learning with sparse updates"
+type: software
+version: 1.2.0-review
+date-released: 2026-11-08
+authors:
+  - family-names: Mollanejad
+    given-names: Amir
+    email: amir.mollanejad@iau.ac.ir
+  - family-names: Derakhshanfard
+    given-names: Nahideh
+    email: n.derakhshan@iaut.ac.ir
+  - family-names: Pour Haji Kazem
+    given-names: Ali Asghar
+    email: ali.pourhaji@istinye.edu.tr
+  - family-names: Dadashkhani
+    given-names: Neda
+    email: neda.dadashkhani@istinye.edu.tr
+  - family-names: Alkayid
+    given-names: Kholoud
+    email: k.kayid@ammanu.edu.jo
+  - family-names: Hosseinzadeh
+    given-names: Mehdi
+    email: mehdihosseinzadeh@duytan.edu.vn
+keywords:
+  - federated learning
+  - multi-task learning
+  - gradient sparsification
+  - Internet of Things
+  - reproducibility
+repository-code: "https://github.com/manofseven7/Energy-Efficient-Federated-Learning"
+

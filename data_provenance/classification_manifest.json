@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "uci_har",
+    "path": "/workspace/scratch/07bc77b4fa94/code/data/processed/uci_har.npz",
+    "train": 7352,
+    "test": 2947,
+    "features": 561,
+    "task1_classes": 6,
+    "task2_classes": 2,
+    "sha256": "01d3c38a8cef075dd58241340c8498ff8f8449d385458a912a9b3011eacf5a2d"
+  },
+  {
+    "dataset": "cwru",
+    "path": "/workspace/scratch/07bc77b4fa94/code/data/processed/cwru.npz",
+    "train": 2184,
+    "test": 769,
+    "features": 26,
+    "task1_classes": 4,
+    "task2_classes": 4,
+    "sha256": "69cb9349591d63e6d00861e6613f7d4e5405acbc19d74eba8c9a1da3db6926c9"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "protocol": "repair_v3",
+  "tuning_runs": 276,
+  "main_run_labels": 115,
+  "compressor_control_labels": 15,
+  "completed_full_labels": 130,
+  "new_full_training_runs": 130,
+  "historical_training_runs_repeated": 0,
+  "reused_full_runs": 0,
+  "final_state_reconstructions": 130,
+  "max_reconstruction_error": 0,
+  "all_finite": true,
+  "all_five_seeds": true,
+  "tuning_files_have_no_test_arrays": true,
+  "tests_passed": 22,
+  "budget_stress_instances": 600,
+  "budget_violations": 0,
+  "development_disclosure": "Earlier benchmark test diagnostics were inspected. Current candidate selection uses validation only; results remain exploratory rather than prospective confirmation.",
+  "candidate_downlink_correction_runs": 56,
+  "accounting_only_training_repeated": 0
+}

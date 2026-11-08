@@ -1,0 +1,50 @@
+{
+  "protocol": "repair_v3",
+  "development_disclosure": "Post-hoc repair following earlier public-data diagnostics; no prospective confirmatory superiority claim.",
+  "tuning": "12 candidate configurations per method and dataset; 100 rounds; seed707; joint mean validation error. No test arrays in tuning archives.",
+  "final": "300 rounds; seeds11/22/33/44/55; matching completed semantic configurations reused where available",
+  "datasets": [
+    {
+      "dataset": "uci_har",
+      "source_sha256": "01d3c38a8cef075dd58241340c8498ff8f8449d385458a912a9b3011eacf5a2d",
+      "validation_groups": [
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "inner_training": 5475,
+      "validation": 1877,
+      "split": "subject-disjoint inner split",
+      "scaling": "inner training only during tuning; official full training only during refit"
+    },
+    {
+      "dataset": "cwru",
+      "source_sha256": "69cb9349591d63e6d00861e6613f7d4e5405acbc19d74eba8c9a1da3db6926c9",
+      "validation_groups": [
+        99,
+        107,
+        120,
+        132,
+        171,
+        187,
+        199,
+        211,
+        224,
+        236
+      ],
+      "inner_training": 1417,
+      "validation": 767,
+      "split": "load-2 validation, loads-0/1 inner training; final refit loads-0/1/2",
+      "scaling": "inner training only during tuning; official full training only during refit"
+    },
+    {
+      "dataset": "intel",
+      "source_sha256": "b1812b4429da02fd0db0028994716365514e828a9961fb29dad8ca0f3bdc10e1",
+      "model": "Persistence offset plus zero-head initialized neural residual; equal architecture for every FL comparator",
+      "split": "existing purged chronological 64/16/20",
+      "test_status": "Previously inspected in diagnostic v2; not represented as a new untouched holdout"
+    }
+  ]
+}
